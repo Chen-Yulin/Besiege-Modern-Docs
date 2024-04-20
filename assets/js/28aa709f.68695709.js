@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbesiege_modern_mod_docs=self.webpackChunkbesiege_modern_mod_docs||[]).push([[5435],{7541:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/Besiege-Modern-Docs/blog/tags/hello","allTagsPath":"/Besiege-Modern-Docs/blog/tags","count":2,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbesiege_modern_mod_docs=self.webpackChunkbesiege_modern_mod_docs||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/Besiege-Modern-Docs/blog","blogTitle":"Blog"}')}}]);

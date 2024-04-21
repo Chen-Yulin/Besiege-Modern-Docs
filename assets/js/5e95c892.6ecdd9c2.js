@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbesiege_modern_mod_docs=self.webpackChunkbesiege_modern_mod_docs||[]).push([[9647],{7121:(e,s,r)=>{r.r(s),r.d(s,{default:()=>t});r(6540);var d=r(4164),c=r(1213),o=r(7559),n=r(2831),u=r(781),a=r(4848);function t(e){return(0,a.jsx)(c.e3,{className:(0,d.A)(o.G.wrapper.docsPages),children:(0,a.jsx)(u.A,{children:(0,n.v)(e.route.routes)})})}}}]);
